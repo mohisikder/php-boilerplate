@@ -1,0 +1,17 @@
+/* header-top */
+.header-top {
+  height: 40px;
+  background: #178bf8;
+  color: #fff;
+}
+.header-top p {
+  margin-top: 7px;
+}
+
+/* footer-bottom */
+.footer-bottom {
+  background: #4d4d4d;
+}
+.footer-bottom p {
+  margin-top: 20px;
+}
